@@ -1,2 +1,2 @@
 Hello git
-Hello world
+Hello world แก้ไขไฟล์ b.txt บรรทัดเดียวกันที่ main
